@@ -27,7 +27,7 @@ node bot.js
 _____________________
 Look ayarlar.json
 _____________________
-
+cl-lw#4141
 
 ![131](https://user-images.githubusercontent.com/68690911/221558463-9416c572-7520-4d07-bf67-918e65021518.PNG)
 ![41414](https://user-images.githubusercontent.com/68690911/221558538-6071867f-a7c1-45e7-a153-a70b7c9ef904.PNG)
