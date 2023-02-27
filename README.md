@@ -11,6 +11,8 @@ Node Bot.js
 
 Ayarlar.json içini kendinize göre yapıcaksınız
 
+__________________________________________________________________
+
 
 English:
 
